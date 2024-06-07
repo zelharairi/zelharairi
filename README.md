@@ -39,7 +39,7 @@ Hi! I'm Ziad, a passionate Data Anlayst/Scientist graduate with a keen interest 
 
 Feel free to reach out to me for any collaborations, questions, or opportunities:
 
-- **Email:** [your_email@example.com](mailto:zelharairi@gmail.com)
+- **Email:** [zelharairi@gmail.com](mailto:zelharairi@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ziad-el-harairi-86781912a/)
 - **GitHub:** [GitHub Profile](https://github.com/zelharairi)
 
